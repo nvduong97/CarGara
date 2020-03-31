@@ -2,7 +2,7 @@
 Hệ thống quản lý gara ô tô
 # 1. Giới thiệu ứng dụng
 - Tên ứng dụng: hệ thống quản lý gara ô tô - modul: nhận xe vào gara.
-- Ngôn ngữ: Java
+- Ngôn ngữ: Java, Java Swing
 # 2. Các chức năng chính
 - Đăng nhập.
 - Tìm kiếm/ thêm mới khách hàng.
